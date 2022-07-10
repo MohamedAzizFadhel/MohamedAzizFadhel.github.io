@@ -1,0 +1,22 @@
+
+:root {
+   --size: 1.4;
+   
+}
+.terminal,span,.cmd,div {
+   --color: rgba(0, 128, 0, 0.99);
+   font-family: VT323;
+
+}
+
+pre{
+      position: relative;
+      
+      color: green; 
+      height: auto;
+      overflow: hidden;
+   
+      
+
+
+}
